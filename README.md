@@ -140,7 +140,7 @@
 - RMSE 0.3243
 <br/>
 
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paragsagrawal/)
 ### **click [here](https://github.com/Parag-Agrawalji/TED-Talk-Prediction-Supervised-Learning-/blob/master/TED_Talks_Views_Prediction_Supervised_learning_projec_t.ipynb) To access the solution of the Capstone Project on TED Talks Views Prediction using Supervised Learning, which includes the usage of 10 different algorithms with detailed explanations and conclusions.**
 </br>
 
